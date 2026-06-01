@@ -1,7 +1,7 @@
 # Hi there, I'm Narendra Jadaun 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.image2url.com/r2/default/gifs/1780303553408-c76c07ee-7ba8-4b74-b04d-ea690c976cf6.gif" width="600" height="320"/>
 </div>
 
 ---

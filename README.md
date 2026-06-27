@@ -7,7 +7,7 @@
 I build backend systems, APIs, dashboards, and automation tools with a focus on clean architecture, useful features, and production-ready delivery.
 
 <p align="center">
-  <a href="https://github.com/narendrajadaun24-tech">
+  <a href="https://github.com/Narendra-1000">
     <img src="https://img.shields.io/badge/GitHub-Jadaun--Git-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/narendra-jadaun/">
@@ -76,7 +76,7 @@ I enjoy turning complex backend problems into simple, maintainable systems that 
 
 ## Connect With Me
 
-- GitHub: [Jadaun-Git](https://github.com/narendrajadaun24-tech)
+- GitHub: [Jadaun-Git](https://github.com/Narendra-1000)
 - LinkedIn: [Narendra Jadaun](https://www.linkedin.com/in/narendra-jadaun/)
 
 > Code should not only work. It should be clean enough to understand, maintain, and improve.

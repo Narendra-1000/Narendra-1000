@@ -61,13 +61,6 @@ I enjoy turning complex backend problems into simple, maintainable systems that 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narendrajadaun24-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Narendra's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narendrajadaun24-tech&theme=tokyonight&hide_border=true" alt="Narendra's GitHub streak" height="165" />
-</p>
-
 ## Current Focus
 
 - Strengthening backend architecture and system design
